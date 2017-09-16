@@ -1,0 +1,4 @@
+"scripts": {
+  "start": "node 3d.js"
+},
+"main": "3d.js"
